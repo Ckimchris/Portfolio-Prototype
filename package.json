@@ -1,0 +1,22 @@
+{
+  "name": "ckimchris.github.io",
+  "version": "1.0.0",
+  "description": "CKimchris Portfolio",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ckimchris/ckimchris.github.io.git"
+  },
+  "author": "Chris Kim",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Ckimchris/ckimchris.github.io/issues"
+  },
+  "homepage": "https://github.com/Ckimchris/ckimchris.github.io#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1"
+  }
+}
