@@ -1,17 +1,8 @@
 .home-nav {
     background-color: #e9edef;
     border-color: #e9edef;
-    height: 80px;
-    padding-top: 20px;
-}
-
-.side-nav {
-    background-color: #e9edef;
-    border-color: white;
-    height: 80px;
-    width: 75%;
-    left: 150px;
-    border-bottom-color: grey;
+    height: 100px;
+    padding-top: 22px;
 }
 
 .frame {
@@ -382,7 +373,7 @@ p {
 /* Ex-Large devices (large desktops, 1200px and up) */
 
 .jumbotron {
-    height: 525px;
+    height: 625px;
 }
 
 canvas {
@@ -394,3 +385,22 @@ canvas {
     max-width: 100%;
     max-height: 100%;
 }
+
+
+/*
+@media screen and (max-width: 764px) and (min-width: 0) {
+    .home-nav {
+        background-color: #e9edef;
+        border-color: #e9edef;
+        height: 100px;
+        padding-top: 22px;
+        width: 314px;
+        margin-left: -164px;
+        left: 50%;
+        top: 20px;
+        padding: 34px 0 0 0;
+        display: table;
+        overflow: visible;
+    }  
+}
+*/
